@@ -3,6 +3,7 @@ titleBreadcrumb: Home
 ...
 A website using Anax Flat
 ===============================
+<img style="display: block; float: left; height: 60px; width: auto; margin-right: 30px; margin-border:20px; border-radius: 2px;">
 ![mac setup](https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?auto=format&fit=crop&w=1650&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D)
 Vem är jag? En glad värmlänning, precis fyllda 33 år. Arbetar till vardags som idrottslärare för döva och hörselskadade elever på en skola i Göteborg. Har sedan jag lämnade Arvika för studier, flyttat runt en del i Sverige. Anledning till detta är min passion för basket.
 
